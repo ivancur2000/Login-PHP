@@ -1,0 +1,30 @@
+.bgPage{
+  background-image: url('./carpincho.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login{
+  background: rgba(105, 99, 96, 0.637);
+  border-radius: 20px;
+}
+.success{
+  color: #fff;
+  background: rgba(0, 0, 0, 0.384);
+  border-color: transparent;
+}
+.success:hover{
+  color: #fff;
+  background: black;
+  border-color: transparent;
+}
+.danger{
+  color: #fff;
+  background: rgba(67, 62, 139, 0.384);
+  border-color: transparent;
+}
+.danger:hover{
+  color: #fff;
+  background: rgba(67, 62, 139);
+  border-color: transparent;
+}
